@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @gopal0208
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on some open source in order to get experience
+- 🌱 In my learning phase
 - 📫 You can reach me via mail -> gopalanand0208@gmail.com
 
 <!---
